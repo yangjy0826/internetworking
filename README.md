@@ -4,8 +4,3 @@
 本文是我的TCP/IP学习笔记，其主要内容均基于瑞典皇家理工学院的EP1220 Internetworking课。 课程网站是：https://www.kth.se/student/kurser/kurs/EP2120?l=en. 以下内容可能包含课程中的部分课件截图。<br>
 课本为： Behrouz A. Forouzan, TCP/IP Protocol Suite, 3nd Edition, 2005<br>
 全文会中英文混合出现￣□￣｜｜因为之前主要是自己用来复习考试的。<br>
-<br>
-# Link Layer<br>
-## 1. Basic introduction<br>
-Data Link Layer has responsibility transferring datagram between adjacent nodes over a link. (Data link layer packet is a frame, encapsulates datagram into frame.)<br>
-Link addressing: MAC address<br>
