@@ -7,3 +7,5 @@
 <br>
 # Link Layer<br>
 ## 1. Basic introduction<br>
+Data Link Layer has responsibility transferring datagram between adjacent nodes over a link. (Data link layer packet is a frame, encapsulates datagram into frame.)<br>
+Link addressing: MAC address<br>
